@@ -14,3 +14,5 @@ to calculate student marks.
 - Python
 - Git
 - GitHub
+
+## just checking git repository
